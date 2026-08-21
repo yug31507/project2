@@ -1,5 +1,5 @@
-# project2
-# Menu-Driven Python Utility Program
+# PROJECT2
+#LOGICAL PYTHON PROGRAM
 
 A console-based Python application that provides pattern printing, numerical range evaluation, and sum calculations through an interactive menu.
 
@@ -7,7 +7,7 @@ A console-based Python application that provides pattern printing, numerical ran
 
 ## Features
 
-* **Pattern Generator (Option 1):** Generates a right-angled triangle pattern made of asterisks (`*`) based on the user's chosen line height.
+* **Pattern Generator (Option 1):** Generates a right-angled triangle pattern made of (`*`) based on the user's chosen line height.
 * **Range Analysis & Summation (Option 2):** 
   * Accepts a starting integer (`n1`) and an ending integer (`n2`).
   * Iterates across the entire interval to classify each number as Even or Odd.
