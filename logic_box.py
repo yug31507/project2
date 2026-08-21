@@ -19,10 +19,10 @@ while True:
         n2=int(input("enter end of the range"))
 
         for i in range(n1,n2+1):
-            if(n%2==0):
+            if(i%2==0):
                 print(f"no {i} is Even")
             else:
-                print(f"no {2} is odd")
+                print(f"no {i} is odd")
 
         sum=0
         for i in range(n1,n2+1):
